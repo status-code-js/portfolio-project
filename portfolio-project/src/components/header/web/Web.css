@@ -18,6 +18,10 @@
     align-items: center;
 }
 
+.web-option a:hover {
+    color: #f2d53c;
+}
+
 .option-icon {
     display: flex;
     align-items: center;
