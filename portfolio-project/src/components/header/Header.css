@@ -32,6 +32,10 @@
     color: #7d3cff;
 }
 
+.logo:hover {
+    color: #f2d53c;
+}
+
 @media only screen and (max-width: 720px) {
     .mobile-menu {
         display: flex;

@@ -6,7 +6,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 70px;
 }
 
 .picture {
@@ -18,10 +17,14 @@
     
 }
 
-
 .info-name {
     background-color: #f2d53c;
     font-size: 35px;
+}
+
+.info-name:hover {
+    background-color: #7d3cff;
+    color: #ffffff;
 }
 
 @media only screen and (max-width: 720px) {
