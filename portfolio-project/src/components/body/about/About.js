@@ -1,5 +1,6 @@
 import React from 'react'
 import './About.css'
+import Social from '../../common/social-links/Social'
 
 function About() {
   return (
@@ -18,11 +19,9 @@ function About() {
       </div>
 
 
-      <div className="about-bottom">
-      this is contacts
-      </div>
+     <Social />
     </div>
-  )
+  ) 
 }
 
 export default About
