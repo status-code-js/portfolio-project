@@ -8,7 +8,7 @@ const Social = () => {
   return (
    <div className="social-contact">
 
-     {data.map((item) => {
+{data.map((item) => {
        return (
        <a href={item.link}>
          <div className="social-icon-wrapper">
