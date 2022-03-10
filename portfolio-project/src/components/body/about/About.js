@@ -12,13 +12,9 @@ function About() {
         <div className="about-info">
         Hello! I am <span className="info-name">Sylwia</span>. 
         <br />Front End Developer.
-        I love creating. 
-        <br />I am a lifelong learner.
+        <br />I love creating and minimalism. I am a lifelong learner.
         </div>
-       
-
       </div>
-
 
      <Social />
     </div>

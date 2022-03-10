@@ -1,0 +1,15 @@
+.social-contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-icon-wrapper {
+    padding: 6px;
+    cursor: pointer;
+    margin: 40px 6px;
+}
+
+.social-icon {
+    height: 30px;
+}
