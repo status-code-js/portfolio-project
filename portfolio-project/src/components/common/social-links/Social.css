@@ -13,3 +13,6 @@
 .social-icon {
     height: 30px;
 }
+.social-icon:hover {
+    transform: scale(1.5);
+}

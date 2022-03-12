@@ -15,8 +15,9 @@ function About() {
         <br />I love creating and minimalism. I am a lifelong learner.
         </div>
       </div>
-
+    
      <Social />
+     
     </div>
   ) 
 }
