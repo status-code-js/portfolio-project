@@ -12,7 +12,8 @@ function About() {
         <div className="about-info">
         Hello! I am <span className="info-name">Sylwia</span>. 
         <br />Front End Developer.
-        <br />I love creating and minimalism. I am a lifelong learner.
+        <br />I love vivid colors and gradients. I am happiest when I am creating.
+        I am a lifelong learner and cat lovera🐱
         </div>
       </div>
     
