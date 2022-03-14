@@ -10,10 +10,11 @@ function About() {
           <img src={require('../../../assets/code.png')} className="picture"/>
         </div>
         <div className="about-info">
-        Hello! I am <span className="info-name">Sylwia</span>. 
+        <h2>Hello! I am <span className="info-name">Sylwia.</span></h2>
         <br />Front End Developer.
-        <br />I love vivid colors and gradients. I am happiest when I am creating.
-        I am a lifelong learner📚 And cat lover🐱 And writer🖌 And sea lover🏝
+        <br />I enjoy creating. I am a lifelong learner📚 
+        I love vivid colors and gradients. 
+        And cats🐱 And sea🏝 And walking🏃‍♀️
         </div>
       </div>
     

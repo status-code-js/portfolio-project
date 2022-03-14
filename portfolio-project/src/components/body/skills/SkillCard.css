@@ -8,7 +8,7 @@
     align-items: center;
     margin: 6px;
     border-radius: 6px;
-    background-color: blueviolet;
+    background-color: #f4f00b;
 }
 
 .skill-icon {
@@ -16,5 +16,15 @@
 }
 
 .skill-name {
+    font-size: 14px;
+}
 
+@media only screen and (max-width: 720px) {
+    .skill-card {
+        width: max-content;
+        height: 100px;
+    }
+    .skill-icon {
+        font-size: 50px;
+    }
 }

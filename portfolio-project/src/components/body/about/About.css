@@ -17,18 +17,15 @@
 
 .about-info {
     font-size: 24px;
-    
 }
 
 .info-name {
-    background-color: #f4f00b;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #f4f00b;
     font-size: 35px;
 }
 
-.info-name:hover {
-    background-color: #6563FF;
-    color: #ffffff;
-}
 
 @media only screen and (max-width: 720px) {
     .about-top {

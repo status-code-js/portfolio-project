@@ -7,7 +7,7 @@ export const SkillsData = [
                     icon: <i class="devicon-react-original"></i>
                 },
                 {
-                    name: "JavaScript",
+                    name: "JS",
                     icon: <i class="devicon-javascript-plain"></i>
                 },
                 {
