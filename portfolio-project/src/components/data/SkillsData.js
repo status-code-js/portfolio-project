@@ -1,5 +1,6 @@
 export const SkillsData = [
         {
+            type: "Front End",
             list: [
                 {
                     name: "React.js",
@@ -7,7 +8,7 @@ export const SkillsData = [
                 },
                 {
                     name: "JavaScript",
-                    icon: <i class="devicon-javascript-plain colored"></i>
+                    icon: <i class="devicon-javascript-plain"></i>
                 },
                 {
                     name: "HTML",
@@ -19,5 +20,15 @@ export const SkillsData = [
                 },
 
             ]
-        }
+        },
+
+        {
+            type: "Back End",
+            list: [
+                {
+                    name: "Node.js",
+                    icon: <i class="devicon-nodejs-plain"></i>
+                },
+            ]
+        },
 ]

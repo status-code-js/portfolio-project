@@ -13,7 +13,7 @@ function About() {
         Hello! I am <span className="info-name">Sylwia</span>. 
         <br />Front End Developer.
         <br />I love vivid colors and gradients. I am happiest when I am creating.
-        I am a lifelong learner and cat lovera🐱
+        I am a lifelong learner📚 And cat lover🐱 And writer🖌 And sea lover🏝
         </div>
       </div>
     
