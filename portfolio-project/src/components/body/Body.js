@@ -3,7 +3,6 @@ import About from './about/About'
 import './Body.css'
 import Projects from './projects/Projects'
 import Skills from './skills/Skills'
-import Work from './work/Work'
 import Contact from './contact/Contact'
 
 function Body() {
@@ -17,9 +16,6 @@ function Body() {
       </section>
       <section id="skills">
         <Skills />
-      </section>
-      <section id="work">
-        <Work />
       </section>
       <section id="contact">
         <Contact />
