@@ -1,0 +1,28 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-title {
+    font-size: 34px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color:#f4f00b;
+}
+
+.contact-info {
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 720px) {
+    .contact-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .section-title {
+        display: flex;
+        justify-content: center;
+    }
+}
