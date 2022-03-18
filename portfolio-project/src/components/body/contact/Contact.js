@@ -9,7 +9,7 @@ function Contact() {
       
     <div className="contact-container">
       <div className="contact-info">
-        <p>Feel free to reach out and say hello. I’d love to hear from you!</p>
+        <p>Let's work together! Find me on these online spaces. I’d love to hear from you.</p>
         <Social />
 
       </div>

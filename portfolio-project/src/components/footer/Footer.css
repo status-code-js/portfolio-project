@@ -12,3 +12,11 @@
     text-decoration-color: #f4f00b;
     padding-left: 4px;
 }
+
+.footer-icon {
+    padding-left: 2.2px;
+    padding-right: 3.2px;
+}
+.footer-icon:hover {
+    transform: scale(1.5);
+}
