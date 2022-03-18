@@ -9,12 +9,21 @@ function About() {
       <div className="about-photo">
           <img src={require('../../../assets/code.png')} className="picture"/>
         </div>
-        <div className="about-info">
-        <h2>Hello! I am <span className="info-name">Sylwia.</span></h2>
+        <div>
+        <h1 className="about-info">Hello! 
+        <br />I am <span className="info-name">Sylwia.</span>
         <br />Front End Developer.
-        <br />I enjoy creating. I am a lifelong learner📚 
-        I like practical and beautiful websites (with UE interface). I love vivid colors and gradients. 
-        And cats🐱 And sea🏝 And walking🏃‍♀️
+        <br />I enjoy creating. I am a lifelong learner.
+        <br />I like
+        <span className="switch-container">
+        <span className="switch switch-design">functional UI designs💻</span>
+        <span className="switch switch-gradients">gradients🎨</span>
+        <span className="switch switch-walking">walking🏃‍♀️</span>
+        <span className="switch switch-sea">sea🏝</span>
+        <span className="switch switch-cats">cats🐱</span>
+        
+        </span>
+        </h1>
         </div>
       </div>
     

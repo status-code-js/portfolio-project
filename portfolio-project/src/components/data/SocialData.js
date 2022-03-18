@@ -1,7 +1,7 @@
 export const SocialData = [
     {
         platform: "Instagram",
-        link: "www.instagram.com/silvia_diado/",
+        link: "https://www.instagram.com/silvia_diado/",
         icon: require('../../assets/icons/instagram.png'),  
     },
     {
@@ -11,7 +11,7 @@ export const SocialData = [
     },
     {
         platform: "Linkedin",
-        link: "www.linkedin.com/in/status-code-js",
+        link: "https://www.linkedin.com/in/status-code-js/",
         icon: require('../../assets/icons/linkedin.png'),
     },
   

@@ -73,11 +73,13 @@
 
     .project-info {
         margin-left: 0px;
-        margin-top: 12px;
+        padding-top: 23px;
     }
 
     .project-tags {
         max-width: 100%;
-        
+    }
+    .project-title {
+        font-size: 20px;
     }
 }

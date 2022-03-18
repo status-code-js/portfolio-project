@@ -16,3 +16,9 @@
 .social-icon:hover {
     transform: scale(1.5);
 }
+
+@media only screen and (max-width: 720px) {
+    .social-icon {
+        height: 30px;
+    }
+}
