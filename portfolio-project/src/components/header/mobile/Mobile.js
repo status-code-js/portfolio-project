@@ -9,6 +9,11 @@ function Mobile({isOpen, setIsOpen}) {
         </div>
      <div className="mobile-options">
         <div className="mobile-option">
+        <a href="#story">
+        <i class="fi fi-rr-book-alt option-icon"></i>About
+        </a>
+        </div>
+        <div className="mobile-option">
         <a href="#projects">
         <i class="fi fi-rr-edit-alt option-icon"></i>Projects
         </a>
@@ -20,7 +25,7 @@ function Mobile({isOpen, setIsOpen}) {
         </div>
         <div className="mobile-option">
         <a href="#contact">
-        <i class="fi fi-rr-user"></i>Contact
+        <i class="fi fi-rr-user option-icon"></i>Contact
         </a>
         </div>
      </div>

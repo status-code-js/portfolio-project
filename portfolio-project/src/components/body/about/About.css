@@ -25,6 +25,7 @@
 }
 
 
+
 .info-name {
     text-decoration-line: underline;
     text-decoration-style: wavy;
@@ -159,7 +160,7 @@ h1 span:first-child {
 
      @media only screen and (max-width: 720px) {
          .picture {
-             height: 300px;
+             height: 270px;
          }
          .about-info {
              font-size: 18px;
@@ -184,5 +185,4 @@ h1 span:first-child {
          .switch-cats {
             bottom: -1.2px;
          }
-
      }

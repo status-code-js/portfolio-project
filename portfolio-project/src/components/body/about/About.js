@@ -2,6 +2,7 @@ import React from 'react'
 import './About.css'
 import Social from '../../common/social-links/Social'
 
+
 function About() {
   return (
     <div className="about">
