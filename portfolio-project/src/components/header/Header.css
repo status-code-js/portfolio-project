@@ -5,6 +5,7 @@
     flex: 1;
     padding: 12px;
     position: relative;
+    font-family: 'Mulish', sans-serif;
 }
 
 .menu {
@@ -28,12 +29,14 @@
 .logo {
     display: flex;
     font-size: 40px;
-    font-weight: 900;
+    font-weight: 700;
     color: #6563FF;
 }
 
 .logo:hover {
-    color: #f4f00b;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #f4f00b;
 }
 
 @media only screen and (max-width: 720px) {

@@ -13,12 +13,16 @@
 .project-photo:hover {
     transform: scale(1.1);
 }
-.project-info {
-    margin-right: 20px;
-}
+
 
 .project-title {
-    font-size: 23px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.project-about {
+    font-size: 20px;
+    padding-right: 30px;
 }
 
 .project-tags {
@@ -54,6 +58,10 @@
     padding: 4px 8px;
     border-radius: 10px;
     margin-right: 6px;
+}
+
+.link-button:hover {
+    background-color: #f9f776;
 }
 
 .link-button i {

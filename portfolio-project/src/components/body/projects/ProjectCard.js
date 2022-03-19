@@ -15,14 +15,14 @@ const ProjectCard = ( { project }) => {
                     </a>
                 )}
             </div>
-            <p>{project.about}</p>
+            <p className="project-about">{project.about}</p>
             <div className="project-tags">{project.tags.map((tag) => {
                 return (
                     <label className="project-tag">{tag}</label>
                 )
             })}</div>
             </div>
-        <img src={project.image} className="project-photo"/>
+        <img src={project.image} className="project-photo" alt="Project Image"/>
 
     </div>
   )

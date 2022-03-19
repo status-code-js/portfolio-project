@@ -4,12 +4,16 @@ import './Body.css'
 import Projects from './projects/Projects'
 import Skills from './skills/Skills'
 import Contact from './contact/Contact'
+import Story from './story/Story'
 
 function Body() {
   return (
     <div className="body">
       <section id="about">
         <About />
+      </section>
+      <section id="story">
+        <Story />
       </section>
       <section id="projects">
         <Projects />

@@ -9,6 +9,7 @@ function Skills() {
   return (
     <div className="skills">
       <label className="section-title">Skills</label>
+      <div className="skills-text">I am a lifelong learner. I learn something new every time. This list of skills will definitely be updated with new ones!</div>
       <div className="skills-container">
         {data.map((item) => {
           return (

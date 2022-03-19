@@ -7,8 +7,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
-   
 }
 
 .picture {
@@ -20,10 +18,12 @@
 }    
 
 .about-info {
-    font-size: 25px;
-    position: relative; 
-    
+    font-size: 36px;
+    position: relative;
+    padding-left: 44px;
+    padding-top: 75px;
 }
+
 
 .info-name {
     text-decoration-line: underline;
@@ -46,9 +46,6 @@ h1 span:first-child {
 
 .switch-container span {
     position: absolute;
-    text-decoration-line: underline;
-    text-decoration-style: wavy;
-    text-decoration-color: #6563FF;
     opacity: 0;
     -webkit-animation: rotate-word 12.5s linear infinite;
             animation: rotate-word 12.5s linear infinite;

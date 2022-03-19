@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: column;
     width: 100%;
+    padding-bottom: 50px;
 }
 
 .skills-section {
@@ -10,8 +11,14 @@
     padding: 20px 0px;
 }
 
+.skills-text {
+    font-size: 20px;
+    padding-bottom: 22px;
+}
+
 .skills-section-title {
-    font-size: 23px;
+    font-size: 25px;
+    font-weight: 700;
 }
 
 .skills-list {
@@ -20,6 +27,7 @@
     max-width: 70%;
     justify-content: flex-end;
 }
+
 
 @media only screen and (max-width: 720px) {
     .skills-list {

@@ -16,7 +16,7 @@ function About() {
         <br />I enjoy creating. I am a lifelong learner.
         <br />I like
         <span className="switch-container">
-        <span className="switch switch-design">functional UI designs💻</span>
+        <span className="switch switch-design">nice UI💻</span>
         <span className="switch switch-gradients">gradients🎨</span>
         <span className="switch switch-walking">walking🏃‍♀️</span>
         <span className="switch switch-sea">sea🏝</span>

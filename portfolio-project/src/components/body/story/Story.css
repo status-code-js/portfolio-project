@@ -1,6 +1,7 @@
 .contact {
     display: flex;
     flex-direction: column;
+    padding-bottom: 50px;
 }
 
 .section-title {
@@ -21,6 +22,16 @@
    font-size: 20px;
 }
 
+.story-quote {
+    font-weight: 700;
+}
+
+.story-link {
+    text-decoration: none;
+    color: #6563FF;
+    font-weight: 700;
+}
+
 @media only screen and (max-width: 720px) {
     .contact-container {
         flex-direction: column;
@@ -35,4 +46,4 @@
     .contact-info p {
         font-size: 18px;
      }
-}
+}   
